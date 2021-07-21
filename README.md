@@ -10,6 +10,8 @@
 
 [#windows #console](https://github.com/RadAd?tab=repositories&q=%23windows+%23console)
 
+[#windows #deskband](https://github.com/RadAd?tab=repositories&q=%23windows+%23deskband)
+
 [#java](https://github.com/RadAd?tab=repositories&q=%23java)
 
 [#android](https://github.com/RadAd?tab=repositories&q=%23android)
