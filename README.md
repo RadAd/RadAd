@@ -12,6 +12,8 @@
 
 [#windows #deskband](https://github.com/RadAd?tab=repositories&q=%23windows+%23deskband)
 
-[#java](https://github.com/RadAd?tab=repositories&q=%23java)
+[#java #java-application](https://github.com/RadAd?tab=repositories&q=%23java+%23java-application)
+
+[#java #java-library](https://github.com/RadAd?tab=repositories&q=%23java+%23java-library)
 
 [#android](https://github.com/RadAd?tab=repositories&q=%23android)
