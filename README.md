@@ -6,9 +6,9 @@
 <!--- [![](https://github-readme-stats.vercel.app/api/pin/?username=RadAd&repo=RadLine&theme=nord)](https://github.com/RadAd/RadLine) --->
 
 ## Repository Searches
-- [#windows #gui-application](https://github.com/RadAd?tab=repositories&q=%23windows+%23gui-application&sort=stargazers)
-- [#windows #console](https://github.com/RadAd?tab=repositories&q=%23windows+%23console&sort=stargazers)
-- [#windows #deskband](https://github.com/RadAd?tab=repositories&q=%23windows+%23deskband&sort=stargazers)
-- [#java #java-application](https://github.com/RadAd?tab=repositories&q=%23java+%23java-application&sort=stargazers)
-- [#java #java-library](https://github.com/RadAd?tab=repositories&q=%23java+%23java-library&sort=stargazers)
-- [#android](https://github.com/RadAd?tab=repositories&q=%23android&sort=stargazers)
+- [#windows #gui-application](https://github.com/RadAd?tab=repositories&q=%23windows+%23gui-application&type=public&sort=stargazers)
+- [#windows #console](https://github.com/RadAd?tab=repositories&q=%23windows+%23console&type=public&sort=stargazers)
+- [#windows #deskband](https://github.com/RadAd?tab=repositories&q=%23windows+%23deskband&type=public&sort=stargazers)
+- [#java #java-application](https://github.com/RadAd?tab=repositories&q=%23java+%23java-application&type=public&sort=stargazers)
+- [#java #java-library](https://github.com/RadAd?tab=repositories&q=%23java+%23java-library&type=public&sort=stargazers)
+- [#android](https://github.com/RadAd?tab=repositories&q=%23android&type=public&sort=stargazers)
