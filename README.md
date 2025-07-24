@@ -12,6 +12,7 @@
   - [#console](https://github.com/RadAd?tab=repositories&q=%23windows+%23console&type=public&sort=stargazers)
   - [#deskband](https://github.com/RadAd?tab=repositories&q=%23windows+%23deskband&type=public&sort=stargazers)
   - [#other](https://github.com/RadAd?tab=repositories&q=%23windows+-%23gui-application+-%23shell-extension+-%23console+-%23deskband&type=public&language=&sort=stargazers)
+- [#cpp-library](https://github.com/RadAd?tab=repositories&q=%23cpp-library&type=public&sort=stargazers)
 - [#java](https://github.com/RadAd?tab=repositories&q=%23java&type=public&sort=stargazers)
   - [#java-application](https://github.com/RadAd?tab=repositories&q=%23java+%23java-application&type=public&sort=stargazers)
   - [#java-library](https://github.com/RadAd?tab=repositories&q=%23java+%23java-library&type=public&sort=stargazers)
